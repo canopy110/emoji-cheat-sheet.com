@@ -68,7 +68,7 @@ module SimpleS3Deploy
         tmp_files << tmp_file_name
       end
     end
-
+awesome
     def config
       @config ||= YAML.load_file('config.yaml')
     end
