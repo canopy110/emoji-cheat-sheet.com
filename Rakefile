@@ -19,3 +19,4 @@ namespace :test do
     sprite.generate path
   end
 end
+end
