@@ -198,6 +198,6 @@ module Emoji
         puts "No optimization of generated sprite will be done. Install optipng if you want it."
       end
     end
-
+all looks good
   end
 end
